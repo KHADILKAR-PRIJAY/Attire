@@ -12,4 +12,4 @@ As the whole webiste uses most of the monochrome theme. In addition, there are v
 # Accessibility
 An simple and easy layout is being used on which user can naviagte to every screen from anyone of them.
 # SEO
-## Used of meta tags, keywords (long-tail), a description about website, appropriate title on each page.
+Used of meta tags, keywords (long-tail), a description about website, appropriate title on each page.
