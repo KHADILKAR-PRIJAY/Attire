@@ -1,4 +1,8 @@
 # Attire
+### Project Overview
+
+## Features
+
 ## Proximity:
 In my website for fashion clothing are divided into two category men and women. Among each category there are sub categories of range of products.
 ## Alignment:
