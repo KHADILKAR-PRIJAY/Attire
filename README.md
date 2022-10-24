@@ -15,7 +15,19 @@ An simple and easy layout is being used on which user can naviagte to every scre
 ## SEO
 Usage of meta tags, keywords (long-tail), a description about website, appropriate title on each page.
 
-## Screenshots
+## Demo
+
+https://user-images.githubusercontent.com/86222915/197575263-d75ab8d1-4b9c-4133-bf33-40cec099cc51.mp4
+
+
+
+
+
+https://user-images.githubusercontent.com/86222915/197576899-560edb03-e1b9-4b40-9f51-09f3c6b4c45f.mp4
+
+
+
+
 
 ![at1](https://user-images.githubusercontent.com/86222915/197359710-b573aa7b-70f6-4a92-9967-b305976cf085.PNG)
 
